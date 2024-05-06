@@ -43,7 +43,8 @@
 
 Начать решили именно с функции доставки карт:
 
-![](pic/order.png)
+<img width="626" alt="order" src="https://github.com/BubaAZ/Reporting/assets/155078994/a4e58dae-d90e-4108-b066-5a5b99c7d7c6">
+
 
 Вам нужно:   
 * взять ваш проект (см. «Как сдавать задачи») и прикрутить туда Allure, интегрированный с Selenide 

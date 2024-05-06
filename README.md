@@ -1,3 +1,6 @@
+![Screenshot_4](https://github.com/BubaAZ/Reporting/assets/155078994/2edbb00f-b921-4ef3-9da3-5f4d556767fb)
+
+
 # Домашнее задание к занятию «4.1. Репортинг»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
